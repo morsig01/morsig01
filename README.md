@@ -4,7 +4,7 @@
 **Education:** Hamar Katedralskole, 2INF  
 **Hobbies:** Socialising, Gaming, Programming  
 **OS:** Windows 11, Linux (Kubuntu), iOS  
-**Language:** HTML, CSS, JavaScript
+**Program language:** HTML, CSS, JavaScript
 
 Contact  
 ------
