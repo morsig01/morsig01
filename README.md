@@ -1,5 +1,5 @@
 # @morsig01  
-**Age:** 17 years, 2 months, 29 days  
+**Age:** 17 years, 3 months  
 **Language:** English, Norwegian  
 **Education:** Hamar Katedralskole, 2INF  
 **Hobbies:** Socialising, Gaming, Programming  
