@@ -6,7 +6,7 @@
 **Hobbies:** Socializing, Music, Gaming, Programming  
 **OS:** Windows 11, Linux (Ubuntu), iOS  
 
----
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ## 🛠️ Tech Stack  
 
@@ -40,7 +40,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" width="40" height="40"/>
 </p>
 
----
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ## 📬 Contact  
 📧 **Email:** [morgan.sigland@gmail.com](mailto:morgan.sigland@gmail.com)  
