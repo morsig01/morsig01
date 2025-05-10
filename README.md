@@ -4,7 +4,7 @@
 **Languages:** English, Norwegian  
 **Education:** Hamar Katedralskole, 2INF  
 **Hobbies:** Socializing, Music, Gaming, Programming  
-**OS:** Windows 11, Linux (Ubuntu), iOS  
+**OS:** Windows 11, Linux (Arch), iOS  
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
