@@ -1,6 +1,6 @@
 # @morsig01
 
-**Age:** 17  
+**Age:** 18  
 **Languages:** English, Norwegian  
 **Education:** Hamar Katedralskole, 2INF  
 **Hobbies:** Socializing, Music, Gaming, Programming  
