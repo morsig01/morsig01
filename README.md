@@ -2,9 +2,6 @@
 
 **Age:** 18  
 **Languages:** English, Norwegian  
-**Education:** Hamar Katedralskole, 2INF  
-**Hobbies:** Socializing, Music, Gaming, Programming  
-**OS:** Windows 11, Linux (Arch), iOS  
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -76,4 +73,3 @@
 
 ## 📬 Contact  
 📧 **Email:** [morgan.sigland@gmail.com](mailto:morgan.sigland@gmail.com)  
-💬 **Discord:** loffwn  
